@@ -12,7 +12,3 @@ export interface NewNoteAddData {
   content?: string;
   tag: "Todo" | "Work" | "Personal" | "Meeting" | "Shopping";
 }
-
-export interface DeleteNote {
-  id: number;
-}

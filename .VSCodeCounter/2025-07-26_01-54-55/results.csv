@@ -1,0 +1,31 @@
+"filename", "language", "TypeScript", "PostCSS", "TypeScript JSX", "JSON", "JavaScript", "JSON with Comments", "Properties", "XML", "Markdown", "HTML", "comment", "blank", "total"
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/.env", "Properties", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 0, 58, 0, 0, 12, 70
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/eslint.config.js", "JavaScript", 0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 2, 24
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 1, 14
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/package-lock.json", "JSON", 0, 0, 0, 3563, 0, 0, 0, 0, 0, 0, 0, 1, 3564
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/package.json", "JSON", 0, 0, 0, 37, 0, 0, 0, 0, 0, 0, 0, 1, 38
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/public/vite.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/App/App.module.css", "PostCSS", 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 75
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/App/App.tsx", "TypeScript JSX", 0, 0, 62, 0, 0, 0, 0, 0, 0, 0, 1, 6, 69
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/Modal/Modal.module.css", "PostCSS", 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 23
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/Modal/Modal.tsx", "TypeScript JSX", 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 2, 6, 46
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/NoteForm/NoteForm.module.css", "PostCSS", 0, 62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 72
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/NoteForm/NoteForm.tsx", "TypeScript JSX", 0, 0, 92, 0, 0, 0, 0, 0, 0, 0, 0, 8, 100
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/NoteList/NoteList.module.css", "PostCSS", 0, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 80
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/NoteList/NoteList.tsx", "TypeScript JSX", 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 1, 5, 41
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/Pagination/Pagination.module.css", "PostCSS", 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 48
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/Pagination/Pagination.tsx", "TypeScript JSX", 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 3, 29
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/SearchBox/SearchBox.module.css", "PostCSS", 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/components/SearchBox/SearchBox.tsx", "TypeScript JSX", 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 3, 19
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/declarations.d.ts", "TypeScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/index.css", "PostCSS", 0, 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 69
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/main.tsx", "TypeScript JSX", 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 3, 19
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/services/noteService.ts", "TypeScript", 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 59
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/types/note.ts", "TypeScript", 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 19
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/src/vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/tsconfig.app.json", "JSON", 0, 0, 0, 23, 0, 0, 0, 0, 0, 0, 2, 3, 28
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 1, 8
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/tsconfig.node.json", "JSON", 0, 0, 0, 21, 0, 0, 0, 0, 0, 0, 2, 3, 26
+"/Users/pablotheparrot/Desktop/GOIT/React005/05-notehub/vite.config.ts", "TypeScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 11
+"Total", "-", 77, 328, 285, 3644, 22, 7, 1, 1, 58, 13, 10, 120, 4566

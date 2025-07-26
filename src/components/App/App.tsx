@@ -1,5 +1,5 @@
 import css from "./App.module.css";
-import { useQuery } from "@tanstack/react-query";
+import { useQuery, keepPreviousData } from "@tanstack/react-query";
 import { fetchNotes } from "../../services/noteService";
 import type { NoteType } from "../../services/noteService";
 import type { Note } from "../../types/note";
@@ -27,6 +27,7 @@ function App() {
   const { data, isSuccess, isLoading, error } = useQuery<NoteType>({
     queryKey: ["notes", perPage, currentPage, debouncedSearchText],
     queryFn: () => fetchNotes(currentPage, perPage, debouncedSearchText),
+    placeholderData: keepPreviousData,
   });
 
   const handleSearchText = (newNote: string) => {

@@ -5,6 +5,9 @@ export interface NoteType {
   notes: Note[];
   totalPages: number;
 }
+interface DeleteNote {
+  id: number;
+}
 
 export async function fetchNotes(
   page: number,
@@ -45,8 +48,8 @@ export async function addNote(noteData: NewNoteAddData): Promise<Note> {
   return response.data;
 }
 
-export async function deleteNote(id: number): Promise<NoteType> {
-  const response = await axios.delete<NoteType>(
+export async function deleteNote(id: DeleteNote): Promise<Note> {
+  const response = await axios.delete<Note>(
     `https://notehub-public.goit.study/api/notes/${id}`,
     {
       headers: {

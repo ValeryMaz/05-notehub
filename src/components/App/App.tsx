@@ -1,14 +1,14 @@
 import css from "./App.module.css";
 import { useQuery } from "@tanstack/react-query";
-import { fetchNotes } from "../services/noteService";
-import type { NoteType } from "../services/noteService";
-import type { Note } from "../types/note";
-import NoteList from "../components/NoteList/NoteList";
-import Pagination from "../components/Pagination/Pagination";
+import { fetchNotes } from "../../services/noteService";
+import type { NoteType } from "../../services/noteService";
+import type { Note } from "../../types/note";
+import NoteList from "../NoteList/NoteList";
+import Pagination from "../Pagination/Pagination";
 import { useState } from "react";
-import Modal from "../components/Modal/Modal";
-import NoteForm from "../components/NoteForm/NoteForm";
-import SearchBox from "../components/SearchBox/SearchBox";
+import Modal from "../Modal/Modal";
+import NoteForm from "../NoteForm/NoteForm";
+import SearchBox from "../SearchBox/SearchBox";
 import { useDebounce } from "use-debounce";
 
 function App() {

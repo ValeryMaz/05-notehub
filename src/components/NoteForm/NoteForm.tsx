@@ -2,9 +2,9 @@ import css from "./NoteForm.module.css";
 import { Formik, Form, Field, ErrorMessage } from "formik";
 import type { FormikHelpers } from "formik";
 import * as Yup from "yup";
-import { addNote } from "../services/noteService";
+import { addNote } from "../../services/noteService";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
-import type { NewNoteAddData } from "../types/note";
+import type { NewNoteAddData } from "../../types/note";
 
 interface NoteFormProps {
   onClose: () => void;
